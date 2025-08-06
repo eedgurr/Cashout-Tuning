@@ -1,16 +1,19 @@
-# Cashout Performance Tuning
+# CashoutStudio-v1
 
 ## Overview
-Cashout Performance Tuning is a powerful software application designed to enhance the performance of vehicles through advanced tuning capabilities. It integrates seamlessly with several tools, including MegaLogViewer, HP Tuners, RaceRender, and more, allowing users to optimize their vehicle's performance effortlessly.
+CashoutStudio-v1 is an offline AI tuning canvas that integrates Web3 signatures for secure and decentralized tuning workflows.
 
-## Key Features
-- **Integration with Tools**: Easily connect Cashout Performance Tuning with MegaLogViewer for data analysis, HP Tuners for vehicle tuning, and RaceRender for video rendering of vehicle performance.
-- **Compatibility**: Supports a variety of file formats, ensuring that users can work with the data they have without needing to convert it.
-- **Setup Instructions**: 
-  1. Download the Cashout Performance Tuning application from the official site.
-  2. Follow the installation instructions provided in the setup wizard.
-  3. Launch the application and connect your vehicle's ECU.
-- **Advanced Customization**: Offers extensive customization options, allowing users to modify parameters and settings to match their specific performance goals.
+## Current Features
+- **AI Canvas:** Provides a sandbox environment for testing and refining tuning parameters.
+- **Web3 Integration:** Ensures secure signing and verification of tuning adjustments.
+- **Offline Mode:** Allows tuning without internet connectivity.
 
-## Conclusion
-Cashout Performance Tuning is the ultimate solution for car enthusiasts looking to fine-tune their vehicles for optimal performance. With easy integration, compatibility with various formats, and advanced features, it empowers users to achieve their tuning goals efficiently.
+## Future Updates
+- **Cloud Sync:** Add optional cloud synchronization for tuning data (e.g., ensure compatibility with major providers like IPFS for decentralized storage).
+- **Template Library:** Provide pre-configured templates for common tuning scenarios.
+- **Performance Metrics:** Include real-time feedback on tuning performance.
+
+## Code Improvements
+- Improve Web3 signature handling for better security.
+- Add support for importing/exporting tuning sessions.
+- Optimize offline mode for better performance on low-spec devices.
