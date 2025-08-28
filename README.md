@@ -30,6 +30,10 @@ Cashout Performance Tuning is a powerful software application designed to enhanc
 - Modularize Supabase interactions for better scalability.
 - Add unit tests for parsing functions to ensure reliability across file types.
 
+## Debugging Microcontrollers
+See [Microcontroller Debugging Techniques](docs/microcontroller_debugging.md) for tips on troubleshooting the embedded systems used with this project.
+
+
 ## Conclusion
 Cashout Performance Tuning is the ultimate solution for car enthusiasts looking to fine-tune their vehicles for optimal performance. With easy integration, compatibility with various formats, advanced parsing and storage features, and forward-looking enhancements, it empowers users to achieve their tuning goals efficiently.
 
