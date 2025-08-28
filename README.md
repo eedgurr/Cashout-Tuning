@@ -33,6 +33,9 @@ Cashout Performance Tuning is a powerful software application designed to enhanc
 ## Debugging Microcontrollers
 See [Microcontroller Debugging Techniques](docs/microcontroller_debugging.md) for tips on troubleshooting the embedded systems used with this project.
 
+## Regression Bisecting
+For guidance on using the multi-language `bisect-test.sh` script within your development pipeline, see the [Bisect Pipeline Guide](docs/bisect_pipeline.md).
+
 
 ## Conclusion
 Cashout Performance Tuning is the ultimate solution for car enthusiasts looking to fine-tune their vehicles for optimal performance. With easy integration, compatibility with various formats, advanced parsing and storage features, and forward-looking enhancements, it empowers users to achieve their tuning goals efficiently.
